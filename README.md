@@ -4,7 +4,7 @@ The repository contains jupyter notebooks corresponding the neural network solut
 
 * AxialBar1D_Linearly_Elastic.ipynb: A linearly-elastic axial-bar
 * 2DBeamv5 (3).ipynb: Cantilever Beam
-* AxialBar_StrongForm.ipynb: Solution with using the strong form
+* AxialBar_StrongForm.ipynb: Solution using the strong form
 * Axial_Bar_Weak_Form (1).ipynb: Solution using the weak form
 * FSB_Pytorch (1).ipynb: A Beam fixed at both the ends
 
